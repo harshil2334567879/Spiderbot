@@ -1,0 +1,21 @@
+/*
+SpiderBot Servo Test
+First code upload for the SpiderBot project.
+This sketch moves a servo between two positions.
+*/
+
+#include <Servo.h>
+
+Servo legServo;
+
+void setup() {
+legServo.attach(2);
+}
+
+void loop() {
+legServo.write(60);
+delay(1000);
+
+legServo.write(120);
+delay(1000);
+}
