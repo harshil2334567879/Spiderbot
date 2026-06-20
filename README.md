@@ -22,15 +22,9 @@ More features in the future
 
 Parts I Already Have
 
-Arduino Nano
-
 FlySky transmitter
 
 FlySky receiver
-
-Batteries
-
-HC-SR04 ultrasonic sensor
 
 Jumper wires
 
@@ -44,6 +38,12 @@ PCA9685 servo driver
 
 3D printed body and leg parts
 
+Batteries
+
+HC-SR04 ultrasonic sensor
+
+Arduino Nano
+
 Current Progress
 
 Just getting started! Right now I’m planning the design, creating documentation, and preparing the parts list.
@@ -52,7 +52,10 @@ Goals
 
 My main goal is to build a stable spider robot that can walk smoothly and perform different actions. I also want to learn more about robotics and improve my engineering skills through this project.
 
-Updates
+Bill of Material (BOM).
+A complete link of BOM that I need with purchase links is mentioned down.
+[Untitled spreadsheet - Sheet1 (1).csv](https://github.com/user-attachments/files/29160216/Untitled.spreadsheet.-.Sheet1.1.csv)
+This BOM only contains the components being requested for funding.
 
 I’ll be posting photos, videos, code, and progress updates here as I continue building SpiderBot.
 
