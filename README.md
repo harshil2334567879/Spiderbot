@@ -57,6 +57,14 @@ A complete link of BOM that I need with purchase links is mentioned down.
 [Untitled spreadsheet - Sheet1 (1).csv](https://github.com/user-attachments/files/29160216/Untitled.spreadsheet.-.Sheet1.1.csv)
 This BOM only contains the components being requested for funding.
 
+The CAD Model of this Robot was built in Fusion 360 and It shows how the robot was assembled.
+The Mode currently includes:
+Main body frame
+Leg assemblies
+Planned placement of electronics
+Sensor placement
+Battery placement
+
 I’ll be posting photos, videos, code, and progress updates here as I continue building SpiderBot.
 
 Thanks for checking out my project!
